@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHUBHAM KUMAR SINGH</h1>
-<h3 align="center">A JavaScript Developer and Software Developer from India</h3>
+<h3 align="center">A WebDev Freelancer and Software Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhams7134&label=Profile%20views&color=0e75b6&style=flat" alt="shubhams7134" /> </p> -->
 
