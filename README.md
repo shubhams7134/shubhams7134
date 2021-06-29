@@ -3,7 +3,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhams7134&label=Profile%20views&color=0e75b6&style=flat" alt="shubhams7134" /> </p> -->
 
-- 👨‍💻 All of my projects are available at [www.shubhamkumarsingh.me](shubhamkumarsingh.me)
 
 - 💬 Ask me about **JavaScript, DSA, OOPS, OS, DBMS, MERN Stack**
 
