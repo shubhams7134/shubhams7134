@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, DSA, OOPS, OS, DBMS, MERN Stack**
 
-- 📫 How to reach me **shubhams7134@gmail.com**
+- 📫 How to reach me **shubhams7134@gmail.com || 18bee112@nirmauni.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
